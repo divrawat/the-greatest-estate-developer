@@ -29,7 +29,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] w-[7
 export const APP_NAME = 'The Greatest Estate Developer';
 export const NavbarName = "The Greatest ED";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. It follows the journey of a visionary protagonist who rises to prominence in the cutthroat world of real estate development. Driven by ambition and a keen business acumen, they navigate through challenges and rivalries, aiming to build the most impressive estates and reshape the skyline of their city.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} all chapters. It follows the journey of a visionary protagonist who rises to prominence in the cutthroat world of real estate development. Driven by ambition and a keen business acumen, they navigate through challenges and rivalries, aiming to build the most impressive estates and reshape the skyline of their city.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
